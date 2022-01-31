@@ -4,7 +4,7 @@
 
 <br>
 
-<img class="plain" src="./ModelArchitecture.pdf" width="1000">
+<img class="plain" src="./ModelArchitecture.png" width="1000">
 
 <br>
 

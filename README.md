@@ -17,5 +17,5 @@
 - psutil
 - matplotlib
 
-<p> causalPODNN.py is the main file to run.</p>
+<p> causalPODNN.py is the main file to run. Additional comments about the code detail is provided within the file.</p>
 

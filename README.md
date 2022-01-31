@@ -8,5 +8,14 @@
 
 <br>
 
+# Required libraries
+
+- tensorflow 2
+- numpy
+- OpenCV 
+- scipy
+- psutil
+- matplotlib
+
 <p> causalPODNN.py is the main file to run.</p>
 
